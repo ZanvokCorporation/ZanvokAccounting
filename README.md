@@ -1,4 +1,4 @@
-![Zanvok Accounting](/images/Number_cruncherCr3.png)
+![Zanvok Accounting](medmatix.png)
 
 # An Accounting System
 
