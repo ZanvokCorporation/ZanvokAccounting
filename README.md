@@ -1,4 +1,4 @@
-![Zanvok Accounting](/images/cruncherCr3.png)
+![Zanvok Accounting](/images/Number_cruncherCr3.png)
 
 # An Accounting System
 
